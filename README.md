@@ -39,4 +39,4 @@
 <br />
 
 - 🔭 我正学习于乐程软软件工作室~
-- 👻 也许我会在这里分享我的文章 [阿普瑞 Apries](https://apries.xyz)
+- 👻 也许我会在这里分享我的文章 [阿普瑞 Apries](http://apries.xyz)
