@@ -1,7 +1,7 @@
 <!-- 标题 + 个人描述, emoji 取自: http://emojihomepage.com -->
 <p align="center">
   <h1 height="200px" align="center">
-    God dag <img src="https://cdn.jsdelivr.net/gh/MaleWeb/picture/images/techblog/hi.gif" width="25">, I'm 阿普瑞Apries
+    Helllo 你好 <img src="https://cdn.jsdelivr.net/gh/MaleWeb/picture/images/techblog/hi.gif" width="25">, I'm 阿普瑞Apries
   </h1>
    <p align="center">一个简简单单热爱前端技术的鶸--来自<img >西南石油大学乐程软件工作室</p>
 </p>
@@ -38,9 +38,5 @@
 <h2 height="200px" align="center">🎉 About Me</h2>
 <br />
 
-- 🔭 I’m currently working on [DXY](https://dxy.com/)~
-- 🏋 I'm passionate about fitness, and it pays off ~
-- 👨‍💻 I'm passionate about coding and have been developing my skill ~
-- 👻 I love to share, and currently share technical articles at [juejin](https://juejin.cn/user/4459274891717223)
-- ⛺️ I have a private site: [kunlunxu](https://kunlunxu.cc), you're welcome to come! ~
-- 📨 My email address is `moyuanjun@kunlunxu.cc` Welcome to contact me 👏🏻 ~
+- 🔭 我正学习于乐程软软件工作室~
+- 👻 也许我会在这里分享我的文章 [阿普瑞 Apries](https://apries.xyz)
