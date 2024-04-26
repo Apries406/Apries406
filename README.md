@@ -1,44 +1,41 @@
-<!-- 标题 + 个人描述, emoji 取自: http://emojihomepage.com -->
 <p align="center">
-  <h1 height="200px" align="center">
-    Helllo 你好 <img src="https://cdn.jsdelivr.net/gh/MaleWeb/picture/images/techblog/hi.gif" width="25">, I'm 阿普瑞Apries
-  </h1>
-   <p align="center">一个简简单单热爱前端技术的鶸--来自<img >西南石油大学乐程软件工作室</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=泥嚎👋&fontSize=90&fontAlign=50&fontAlignY=30&desc=我是%20阿普瑞%20Apries&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
 </p>
 
-<!-- 
-  技术栈标签, 小标签来自: https://shields.io/
-  1. shields 链接格式: https://img.shields.io/badge/-{标签文本}-{标签背景色}?style={标签类型}&logo={标签前面 Logo}&logoColor={Logo 颜色}
-  2. shields 可选 Logo 列表参考: https://github.com/simple-icons/simple-icons/blob/develop/slugs.md
--->
-<div align="center">
-  <img src="https://img.shields.io/badge/-JavaScript-f6da1c?style=flat&logo=javascript&logoColor=white">
-  <img src="https://img.shields.io/badge/-TypeScript-2b6dbf?style=flat&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/-React-00b4ce?style=flat&logo=react&logoColor=white">
-  <img src="https://img.shields.io/badge/-ReactNative-61DAFB?style=flat&logo=react&logoColor=white">
-  <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/-Electron-47838F?style=flat&logo=Electron&logoColor=white">
-  <img src="https://img.shields.io/badge/-Sass-b37feb?style=flat&logo=sass&logoColor=white">
+<p align="center">
+  <h1 height="200px" align="center">
+   泥嚎<img src="https://cdn.jsdelivr.net/gh/MaleWeb/picture/images/techblog/hi.gif" width="25">我是「阿普瑞 Apries」
+  </h1>
+   <p align="center">西南石油大学✨乐程软件工作室 🥋 26 鶸前端er  参上！👨‍💻</p>
+</p>
 
-</div>
-<div align="center">
-  <img src="https://img.shields.io/badge/-Git-ee462c?style=flat&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/-Docker-218bea?style=flat&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/-Github-black?style=flat&logo=github">
-  <img src="https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack">
-  <img src="https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint">
-</div>
-
-<!-- 背景图 -->
-<br />
-<br />
+<p align="center">
+  <img align="center" src="https://skillicons.dev/icons?i=html&theme=light" />
+  <img align="center" src="https://skillicons.dev/icons?i=css&theme=light" />
+  <img align="center" src="https://skillicons.dev/icons?i=sass&theme=light" />
+  <img align="center" src="https://skillicons.dev/icons?i=markdown&theme=light" />
+  <img align="center" src="https://skillicons.dev/icons?i=latex&theme=light" />
+  <img align="center" src="https://skillicons.dev/icons?i=javascript&theme=light" />
+  <img align="center" src="https://skillicons.dev/icons?i=typescript&theme=light" />
+  <img align="center" src="https://skillicons.dev/icons?i=react&theme=light" />
+  <img align="center" src="https://skillicons.dev/icons?i=electron&theme=light" />
+  <img align="center" src="https://skillicons.dev/icons?i=nodejs&theme=light" />
+</p>
 
 
-<!-- 关于我 -->
-<h2 height="200px" align="center">🎉 About Me</h2>
-<br />
 
-- 🔭 我正学习于乐程软软件工作室~
-- 👻 也许我会在这里分享我的文章 [阿普瑞 Apries](http://apries.xyz)
+<!-- 贡献图 -->
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=apries406&theme=github-compact&hide_border=true&area=true" />
+<p align="center">
+  <img align="center" height="180" width="45%" src="https://github-readme-stats.vercel.app/api?username=apries406&show_icons=true&theme=highcontrast"/>
+  <!-- 连续贡献数据记录 -->
+  <img  align="center" height="200" width="45%" src="https://streak-stats.demolab.com?user=apries&theme=highcontrast&border_radius=5&locale=zh_Hans&date_format=%5BY.%5Dn.j" alt="GitHub Streak" />
+</p>
 
-![all-smile's GitHub stats](https://github-readme-stats.vercel.app/api?username=all-smile&show_icons=true&theme=tokyolight)
+<p align="center">
+  <img align="center"  width="45%" height="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apries406&theme=highcontrast"/>
+  <img align="center"  width="45%" height="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apries406&theme=highcontrast&hide_border=true&layout=donut-vertical&langs_count=6" />
+</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=乐程软件工作室&fontSize=90&fontAlign=50&fontAlignY=70&desc=Apries&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
+</p>
