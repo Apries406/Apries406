@@ -40,3 +40,5 @@
 
 - 🔭 我正学习于乐程软软件工作室~
 - 👻 也许我会在这里分享我的文章 [阿普瑞 Apries](http://apries.xyz)
+
+![all-smile's GitHub stats](https://github-readme-stats.vercel.app/api?username=all-smile&show_icons=true&theme=tokyonight)
