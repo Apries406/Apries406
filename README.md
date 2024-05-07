@@ -24,8 +24,13 @@
 
 
 
-<!-- 贡献图 -->
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=apries406&theme=github-compact&hide_border=true&area=true" />
+<!-- 贪吃蛇 - 图片由 actions/Generate Snake 定时生成 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/github-snake.svg" />
+  <img width="100%" alt="github-snake" src="./assets/github-snake.svg" />
+</picture>
+
 <p align="center">
   <img align="center" height="180" width="45%" src="https://github-readme-stats.vercel.app/api?username=apries406&show_icons=true&theme=highcontrast"/>
   <!-- 连续贡献数据记录 -->
@@ -36,6 +41,10 @@
   <img align="center"  width="45%" height="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apries406&theme=highcontrast"/>
   <img align="center"  width="45%" height="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apries406&theme=highcontrast&hide_border=true&layout=donut-vertical&langs_count=6" />
 </p>
+
+
+
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=乐程软件工作室&fontSize=90&fontAlign=50&fontAlignY=70&desc=Apries&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
 </p>
