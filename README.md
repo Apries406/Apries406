@@ -8,7 +8,7 @@
   </h1>
    <p align="center">西南石油大学✨乐程软件工作室 🥋 26 鶸前端er  参上！👨‍💻</p>
 </p>
-
+ 
 <p align="center">
   <img align="center" src="https://skillicons.dev/icons?i=html&theme=light" />
   <img align="center" src="https://skillicons.dev/icons?i=css&theme=light" />
@@ -23,6 +23,10 @@
 </p>
 
 
+<p align="center">
+  🔭 我的博客 <a href="http:apries.xyz" target="_blank">阿普瑞Apries</a>
+</p>
+<br/>
 
 <!-- 贪吃蛇 - 图片由 actions/Generate Snake 定时生成 -->
 <picture>
