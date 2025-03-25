@@ -20,6 +20,7 @@
   <img align="center" src="https://skillicons.dev/icons?i=react&theme=light" />
   <img align="center" src="https://skillicons.dev/icons?i=electron&theme=light" />
   <img align="center" src="https://skillicons.dev/icons?i=nodejs&theme=light" />
+  <img align="center" src="https://skillicons.dev/icons?i=nestjs&theme=light" />
 </p>
 
 
